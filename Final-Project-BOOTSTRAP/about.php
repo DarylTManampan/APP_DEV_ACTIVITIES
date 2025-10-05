@@ -31,7 +31,7 @@
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="index.php">Home</a></li>
                     <li><a href="about.php">About Us</a></li>
-                    <li><a href="post_1.php">Posts</a></li>
+                    <li><a href="posts/post_1.php">Posts</a></li>
                     <li><a href="contact.php">Contact Us</a></li>
                 </ul>
             </div>

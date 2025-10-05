@@ -30,7 +30,7 @@
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="index.php">Home</a></li>
                     <li><a href="about.php">About Us</a></li>
-                    <li><a href="post_1.php">Posts</a></li>
+                    <li><a href="posts/post_1.php">Posts</a></li>
                     <li><a href="contact.php">Contact Us</a></li>
                 </ul>
             </div>
@@ -46,31 +46,31 @@
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
                 <div id="post" data-title="Late Born, Early Burdened">
-                    <h1><a href="post_1.php">"Late Born, Early Burdened"</a></h1>
+                    <h1><a href="posts/post_1.php">"Late Born, Early Burdened"</a></h1>
                     <p class="lead">A Different Kind of First, is what it is.</p>
                     <p>07-May-2025/DT</p>
                 </div>
 
                 <div id="post" data-title="Silent Protector - Toge Inumaki">
-                    <h1><a href="post_2.php">Silent Protector - Toge Inumaki</a></h1>
+                    <h1><a href="posts/post_2.php">Silent Protector - Toge Inumaki</a></h1>
                     <p class="lead">Inumaki Toge, a character in the animanga Jujutsu Kaisen.</p>
                     <p>07-May-2025/DT</p>
                 </div>
 
                 <div id="post" data-title="Rockstar by xikers">
-                    <h1><a href="post_3.php">Rockstar by xikers</a></h1>
+                    <h1><a href="posts/post_3.php">Rockstar by xikers</a></h1>
                     <p class="lead">Rockstar Lyrics English Translation</p>
                     <p>07-May-2025/DT</p>
                 </div>
 
                 <div id="post" data-title="My Topic on my Blog">
-                    <h1><a href="post_4.php">My Topic on my Blog</a></h1>
+                    <h1><a href="posts/post_4.php">My Topic on my Blog</a></h1>
                     <p class="lead">Tell Something about your blog goes here.....</p>
                     <p>07-May-2025/DT</p>
                 </div>
 
                 <div id="post" data-title="My Topic on my Blog">
-                    <h1><a href="post_5.php">My Topic on my Blog</a></h1>
+                    <h1><a href="posts/post_5.php">My Topic on my Blog</a></h1>
                     <p class="lead">Tell Something about your blog goes here.....</p>
                     <p>07-May-2025/DT</p>
                 </div>
