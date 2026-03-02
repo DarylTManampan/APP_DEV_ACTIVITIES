@@ -2,7 +2,7 @@
 **For the course Application Development**
 
 
-# **[DTBlogs - Blog](https://dplays.infinityfree.me/dtblogs)**
+# **[DTBlogs - Blog](https://daprojects.infinityfree.me/Blog)**
 
 This project is a simple, static blog site developed as an educational exercise following a video tutorial by the professor. It is constructed with a collection of PHP files that utilize the **Bootstrap** framework to achieve a basic, responsive blog layout.
 
