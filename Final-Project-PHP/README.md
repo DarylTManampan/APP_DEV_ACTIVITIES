@@ -2,7 +2,7 @@
 **For the course Application Development**
 
 
-# **[D'Playlist - Spotify Inspired Playlist Maker](https://dplays.infinityfree.me/dplaylist/)**
+# **[D'Playlist - Spotify Inspired Playlist Maker](https://daprojects.infinityfree.me/diplaylist)**
 
 This project is a **PHP-based web application** that shows simple **CRUD** functionality for managing music playlists and the songs they contain. It is built with Bootstrap for a responsive UI and uses PDO for secure database interactions.
 
